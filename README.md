@@ -130,8 +130,8 @@ flowchart LR
 ### 安装
 
 ```bash
-git clone https://github.com/<your-name>/ic-inventory.git
-cd ic-inventory
+git clone https://github.com/chang2005/IC-Inventory.git
+cd IC-Inventory
 
 npm install
 

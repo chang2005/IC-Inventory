@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# local backups / exports
+backup/
+
+# internal workspace
+.workbuddy-ai/
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# logs
+*.log
+npm-debug.log*
